@@ -1,3 +1,3 @@
 # hello-world
-Hello World!  repository for the GitHub tutorial
+Hello World!  repository for the GitHub tutorial  
 Im tall, I like Dota, nature, and sushi.
